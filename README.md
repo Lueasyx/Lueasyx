@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Olá, Eu sou o Luís Lima 👋
+- 🔭 Estou trabalhando atualmente como estágiario na Unimar - Universidade de Marília
+- 🌱 Estudando PHP
+- 📫 contate-me no meu E-mail: santana.dudu10@hotmail.com
 <!--
 **Lueasyx/Lueasyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
