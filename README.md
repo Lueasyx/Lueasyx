@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Luís Lima 👋
 - 🔭 Estou trabalhando atualmente como estágiario na Unimar - Universidade de Marília
 - 🌱 Estudando PHP
-- 📫 contate-me no meu E-mail: santana.dudu10@hotmail.com
 <!-- Github Stats -->
 <div align="center">
   <a href="https://github.com/Lueasyx">
