@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Luís Lima 👋
 - 🔭 Estou trabalhando atualmente como estágiario na Unimar - Universidade de Marília
-- 🌱 Estudando Flutter, Dart, Laravel
+- 🌱 Estudando Flutter, Dart, Laravel e PHP
 <!-- Github Stats -->
 <div align="center">
   <a href="https://github.com/Lueasyx">
