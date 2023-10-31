@@ -1,6 +1,8 @@
 ### Olá, Eu sou o Luís Lima 👋
 - 🔭 Estou trabalhando atualmente como estágiario na Unimar - Universidade de Marília
-- 🌱 Estudando PHP, Laravel e Vue.
+- 📖 Cursando Análise e desenvolvimento de sistemas na Unimar - Universidade de Marília - 2024
+- 📖 Cursando Ciência de dados na Unimar - Universidade de Marília - 2025
+- 🌱 Estudando PHP, Js, Laravel e Vue.
 <!-- Github Stats -->
 <div align="center">
   <a href="https://github.com/Lueasyx">
