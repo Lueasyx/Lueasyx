@@ -1,8 +1,10 @@
 ### Olá, Eu sou o Luís Lima 👋
-- 🔭 Estou trabalhando atualmente como estágiario na Unimar - Universidade de Marília
+- 🔭 Estou trabalhando atualmente como estágiario no Grupo Assessor
 - 📖 Cursando Análise e desenvolvimento de sistemas na Unimar - Universidade de Marília - 2024
 - 📖 Cursando Ciência de dados na Unimar - Universidade de Marília - 2025
-- 🌱 Estudando PHP, Js, Laravel e Vue.
+- 🥇 Campeão do Hackathon de exatas da Unimar - 2023
+- Trabalhando Atualmente com Genexus e Java.
+- 🌱 Always evolving.
 <!-- Github Stats -->
 <div align="center">
   <a href="https://github.com/Lueasyx">
@@ -12,8 +14,8 @@
 <!-- Linguagens de programação -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Compose" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
