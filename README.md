@@ -46,7 +46,7 @@ Tenho experiência com desenvolvimento backend, aplicações web e automação d
 
 <div> 
   <a href="https://www.linkedin.com/in/luis-eduardo-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://12 imagens agora (uma por uma)/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="mailto:luissantana.dev.br@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
